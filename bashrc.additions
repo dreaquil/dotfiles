@@ -1,0 +1,5 @@
+alias venv="source .venv/bin/activate"
+alias g="git status"
+alias ga="git add"
+alias gc="git commit"
+alias gp="git push"
